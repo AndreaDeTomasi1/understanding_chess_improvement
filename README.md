@@ -36,6 +36,7 @@ Tutte le fasi del progetto e le scelte metodologiche sono illustrate in una **pr
 ---
 
 ## 📂 Struttura della Repository
+```
 understanding_chess_improvement/
 │
 ├── data_clean/ # Dataset puliti e aggregati
@@ -43,6 +44,7 @@ understanding_chess_improvement/
 ├── dashboards_and_plots/ # File e report Power BI
 ├── docs/ # Presentazione PowerPoint e documentazione
 └── README.md # Descrizione del progetto
+```
 
 ---
 
