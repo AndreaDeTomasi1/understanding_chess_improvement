@@ -39,8 +39,8 @@ Tutte le fasi del progetto e le scelte metodologiche sono illustrate in una **pr
 ```
 understanding_chess_improvement/
 │
-├── data_clean/ # Dataset puliti e aggregati
-├── csv_support/ # CSV di appoggio per Power BI
+├── data_ingestion/ # Dataset puliti e aggregati con codici che li generano
+├── data_visualization/ # CSV di appoggio per Power BI con codici che li generano
 ├── dashboards_and_plots/ # File e report Power BI
 ├── docs/ # Presentazione PowerPoint e documentazione
 └── README.md # Descrizione del progetto
