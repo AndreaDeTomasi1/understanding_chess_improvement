@@ -4,6 +4,25 @@ Questo progetto si concentra sull’analisi del miglioramento negli scacchi attr
 
 ---
 
+## 🔎 Analisi Principali
+
+Il progetto si articola in due analisi chiave:
+
+1. **Correlazione tra partite online veloci e miglioramento OTB**  
+   Verifica di una correlazione inversa tra il numero di partite veloci giocate online (es. bullet/blitz) e il miglioramento dell’**Elo nel gioco dal vivo (OTB)**. La base teorica si appoggia a studi psicologici che evidenziano la differenza tra processi cognitivi lenti e rapidi.
+
+2. **Cluster dei “virtuosi”**  
+   Analisi dei giocatori che mostrano il maggiore miglioramento (“virtuosi”) su Lichess, suddivisi per:
+   - tipo di gioco (bullet, blitz, rapid, classical),  
+   - livello di rating.  
+
+   L’obiettivo è individuare:
+   - metodologie di gioco,  
+   - comportamenti sulla piattaforma,  
+   - attitudini mentali associate al progresso più marcato.
+
+---
+
 ## 🔄 Pipeline del Progetto
 
 ### 1. Data Ingestion
