@@ -61,7 +61,7 @@ understanding_chess_improvement/
 ├── data_ingestion/ # Dataset puliti e aggregati con codici che li generano
 ├── data_visualization/ # CSV di appoggio per Power BI con codici che li generano
 ├── dashboards_and_plots/ # File e report Power BI
-├── docs/ # Presentazione PowerPoint e documentazione
+├── docs/ # Presentazione PowerPoint e documenti che hanno guidato la nostra ricerca
 └── README.md # Descrizione del progetto
 ```
 
